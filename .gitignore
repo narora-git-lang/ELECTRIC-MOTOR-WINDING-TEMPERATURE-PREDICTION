@@ -1,0 +1,15 @@
+# Dataset
+*.csv
+*.zip
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
