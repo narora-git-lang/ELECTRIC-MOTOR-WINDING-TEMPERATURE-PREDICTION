@@ -27,8 +27,12 @@ electric motor winding temperature using sensor measurements.
 - `README.md` - Project documentation
 
 ## Dataset
-The dataset is not included in this repository because of its size.
-Instructions for accessing the dataset will be provided here.
+
+The dataset used in this project is available on Google Drive.
+
+[Download the dataset](https://drive.google.com/drive/folders/1yWJRnrZn6ARM7f_EHii1K06-DfJYD9pO?usp=sharing)
+
+Download the dataset and place it in the appropriate directory before running the notebook.
 
 ## How to Run
 1. Download or clone this repository.
