@@ -44,5 +44,9 @@ Download the dataset and place it in the appropriate directory before running th
 ## Results
 Model performance metrics and visualizations will be documented here.
 
-## Author
-Nishad
+## Authors
+Nishad Arora 
+Adrita Ghosh 
+Shwetaleena Mohanta
+Ayush Singh
+Krishan Goyal
